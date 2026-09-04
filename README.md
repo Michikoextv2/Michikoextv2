@@ -8,6 +8,7 @@ Currently learning kernel and ROM development for Qualcomm Snapdragon-based Xiao
 [![](https://img.shields.io/badge/Organization-FOXMiko--Labs-blue?style=flat-square)](https://github.com/FOXMiko-Labs)
 [![](https://img.shields.io/badge/Location-Indonesia-red?style=flat-square)](https://github.com/Michikoextv2)
 [![](https://img.shields.io/badge/Focus-Android%20Kernel-green?style=flat-square)](https://github.com/Michikoextv2)
+[![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
 
 </div>
 
@@ -50,6 +51,7 @@ My learning focuses on understanding Linux kernel internals, upstreaming patches
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Clang](https://img.shields.io/badge/Clang-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
 ---
 
