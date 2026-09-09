@@ -27,6 +27,7 @@ My learning focuses on understanding Linux kernel internals, upstreaming patches
 | POCO X3 NFC | `surya` | Snapdragon 732G |
 | Redmi Note 9 Pro / Miatoll | `joyeuse` |Snapdragon 720G |
 | Redmi Note 8 | `ginkgo` | Snapdragon 665 |
+| Redmi Note 5 Pro | `whyred` | Snapdragon 636 |
 
 ---
 
