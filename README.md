@@ -16,7 +16,7 @@ Currently learning kernel and ROM development for Qualcomm Snapdragon-based Xiao
 
 ### About
 
-I am a beginner in Android kernel and ROM development, currently learning and maintaining kernel builds for Xiaomi devices under [FOXMiko-Labs](https://github.com/FOXMiko-Labs).
+I am a beginner in Android kernel and ROM development, currently learning and maintaining kernel builds for Xiaomi devices.
 
 My learning focuses on understanding Linux kernel internals, upstreaming patches from Linux stable and LineageOS, optimizing performance, focusing stability and maintaining ROM compatibility across AOSP, MIUI, and HyperOS.
 
